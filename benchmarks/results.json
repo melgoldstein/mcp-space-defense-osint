@@ -1,0 +1,10 @@
+{
+  "platform": "Windows-10-10.0.19045-SP0",
+  "iterations": 1000,
+  "median_us": {
+    "cached_feed_read": 0.3,
+    "json_parse_uncached": 0.9,
+    "q_line_geojson": 2.8
+  },
+  "network_included": false
+}
