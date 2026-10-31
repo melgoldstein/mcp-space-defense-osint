@@ -18,8 +18,8 @@ dev = ["pytest>=8,<10", "ruff>=0.11,<1", "build>=1,<2"]
 space-defense-osint = "space_defense_osint.server:main"
 
 [project.urls]
-Repository = "https://github.com/cankaan120/mcp-space-defense-osint"
-Issues = "https://github.com/cankaan120/mcp-space-defense-osint/issues"
+Repository = "https://github.com/melgoldstein/mcp-space-defense-osint"
+Issues = "https://github.com/melgoldstein/mcp-space-defense-osint/issues"
 
 [tool.setuptools]
 packages = ["space_defense_osint"]

@@ -1,5 +1,7 @@
 # mcp-space-defense-osint
 
+[Portfolio: melgoldstein.com](https://melgoldstein.com/)
+
 A stdio MCP server for public orbital context, geomagnetic conditions and structured
 airspace envelopes. Built on the official MCP SDK, Skyfield/SGP4 and HTTPX.
 MIT licensed; Python 3.11+. No API keys required.
@@ -7,7 +9,7 @@ MIT licensed; Python 3.11+. No API keys required.
 ## Quickstart (30 Seconds)
 
 ```bash
-git clone https://github.com/cankaan120/mcp-space-defense-osint.git
+git clone https://github.com/melgoldstein/mcp-space-defense-osint.git
 cd mcp-space-defense-osint
 python -m venv .venv
 .venv/bin/python -m pip install '.[dev]'
